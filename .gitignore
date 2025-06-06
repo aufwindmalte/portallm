@@ -227,3 +227,27 @@ Thumbs.db
 config/local.json
 logs/
 *.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
